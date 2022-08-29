@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DimtreeDev
+- 👋 Hi, I’m @DimitriiUK
 - 👀 I’m interested in FiveM Development.
 - 🌱 I’m currently learning LUA, CSS, HTML & JS.
 - 📫 How to reach me Dimitri`#0001
